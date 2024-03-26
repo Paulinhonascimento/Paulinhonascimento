@@ -1,9 +1,9 @@
 <!GIf de apresentação>
-------
+-----
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=40&duration=4000&pause=1000&color=8B668B&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Paulo+Nascimento;I'm+a+new+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
---------
 
 
+-----
 <div align="center">
 <table>
 <tr>
@@ -26,6 +26,21 @@
 </table>
 
 </div>
+
+
+-----
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+
+<div>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulinhonascimento&theme=github_dark"/>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=paulinhonascimento&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paulinhonascimento&theme=github_dark"/>
+</div><br/>
+
+-----
+
+
+
 
 
 
