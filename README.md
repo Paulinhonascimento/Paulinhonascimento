@@ -1,3 +1,8 @@
+
+<div align="center">
+<img src="https://github.com/Paulinhonascimento/Paulinhonascimento/assets/161390386/0ed3d2b4-3551-4b72-b56f-9c6fd26d6c1b.png" width="700px" />
+</div>
+
 <!GIf de apresentação>
 -----
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=40&duration=4000&pause=1000&color=8B668B&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Paulo+Nascimento;I'm+a+new+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
